@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou o 🧑🏾‍💻 Igor Rodrigues
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor FullStack Júnior`**
 
 Sou natural de **Itaberaba-BA**, tenho 27 anos e atualmente resido em **São Paulo-SP**. 
 
