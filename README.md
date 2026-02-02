@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack Júnior`**
 
-Tenho 27 anos, sou natural de **Itaberaba-BA** mas resido em **São Paulo-SP** há 6 anos. 
+Tenho 28 anos, sou natural de **Itaberaba-BA** mas resido em **São Paulo-SP** há 6 anos. 
 
 🎓 Bacharel em **Engenharia de Controle e Automação** pelo Centro Universitário FMU | FIAM-FAAM, com foco em Mecatrônica e Robótica.
 
