@@ -99,24 +99,7 @@ Tenho experiência em **Web Design**, com foco na criação de interfaces modern
 <br/>
 <br/>
 
-### 📊 Estatísticas
 
-<p>
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api?username=Igor3Rodrigues&show_icons=true&theme=tokyonight&include_all_commits=true"
-    height="180"
-  />
-
-  <img 
-    align="left" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor3Rodrigues&theme=tokyonight&layout=compact&langs_count=9"
-    height="180"
-  />
-</p>
-
-<br/>
-<br/>
 
 <!-- Snake Animation -->
 <picture>
