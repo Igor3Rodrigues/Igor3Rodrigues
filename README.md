@@ -116,3 +116,10 @@ Tenho experiência em **Web Design**, com foco na criação de interfaces modern
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Igor3Rodrigues&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
+
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/JenniGabriely01/JenniGabriely01/output/github-snake.svg" />
+</picture>
