@@ -119,7 +119,7 @@ Tenho experiência em **Web Design**, com foco na criação de interfaces modern
 
 <!-- Snake Animation -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorrodrigues/igorrodrigues/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorrodrigues/igorrodrigues/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/igorrodrigues/igorrodrigues/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Igor3Rodrigues/Igor3Rodrigues/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Igor3Rodrigues/Igor3Rodrigues/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Igor3Rodrigues/Igor3Rodrigues/output/github-snake.svg" />
 </picture>
